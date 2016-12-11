@@ -26,3 +26,11 @@ Those who choose this level are in for a challenge.
 - Shooting causes game to pause making gameplay unresponsive.
 - Refreshing each tile of the screen causes lagginess.
 - Farmer's attacks are too accurate.
+
+#Images
+![SS] (https://lisguo.github.io/img/carrotliberation/ss0.png "Screenshot")
+![SS] (https://lisguo.github.io/img/carrotliberation/ss2.png "Screenshot")
+![SS] (https://lisguo.github.io/img/carrotliberation/ss3.png "Screenshot")
+![SS] (https://lisguo.github.io/img/carrotliberation/ss4.png "Screenshot")
+![SS] (https://lisguo.github.io/img/carrotliberation/ss5.png "Screenshot")
+![SS] (https://lisguo.github.io/img/carrotliberation/ss7.png "Screenshot")
